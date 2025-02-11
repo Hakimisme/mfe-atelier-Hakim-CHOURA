@@ -1,4 +1,3 @@
-```markdown
 # mfe-atelier-Hakim-CHOURA 🚀
 
 ## Description 📝
@@ -62,10 +61,3 @@ Si vous souhaitez contribuer à ce projet, suivez ces étapes :
 ## Auteurs 👨‍💻
 
 - **Hakim CHOURA** - *Développeur principal* - [Hakimisme](https://github.com/Hakimisme)
-
-## Licence 📜
-
-Ce projet est sous licence MIT. Pour plus de détails, consultez le fichier [LICENSE](LICENSE) 📄.
-```
-
-Ce modèle est désormais plus vivant avec des emojis pour attirer l'attention sur les sections principales et rendre la lecture plus agréable. Tu peux bien sûr ajouter, modifier ou personnaliser en fonction de tes préférences. 😊
