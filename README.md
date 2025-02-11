@@ -1,5 +1,3 @@
-Voici un fichier `README.md` avec des emojis pour rendre le tout plus convivial :
-
 ```markdown
 # mfe-atelier-Hakim-CHOURA 🚀
 
